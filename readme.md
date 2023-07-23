@@ -20,5 +20,7 @@ A simple Python script that walks through a directory and its subdirectories, op
 - Run the script:
 
     ```python
-    python main.py -p "/path/to/search" -n "^regex pattern to find$"
+    python main.py -p "/path/to/search" -l "keyword"
+    # or
+    python main.py -h
     ```
